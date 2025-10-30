@@ -1,5 +1,4 @@
-# 📦 WMS (Warehouse Management System) - Furniture  
-
+# 📦 WMS (Warehouse Management System)
 ## 📖 프로젝트 개요  
 WMS(Warehouse Management System)는 **가구(Furniture) 중심의 창고 관리 시스템**으로, 입고·출고, 재고 관리, 창고 스펙 관리, 사용자 권한 분리 등을 지원합니다.  
 Java와 MySQL을 기반으로 개발되며, 관리자(Admin), 창고 관리자(Storage Manager), 사업자(Business), 운송자(Transporter), 고객센터(Customer Service) 등 다양한 역할(Role)을 고려한 **확장성 있는 구조**를 목표로 합니다.  
