@@ -60,8 +60,3 @@ Java와 MySQL을 기반으로 개발되며, 관리자(Admin), 창고 관리자(S
 
 ---
 
-## 📌 실행 방법
-1. 저장소 클론  
-   ```bash
-   git clone https://github.com/LKMGIT/WMS_Project.git
-   cd WMS_Project
